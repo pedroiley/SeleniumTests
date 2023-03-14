@@ -376,6 +376,16 @@ public class TestGoogle4 {
 
     }
 
+    //Testcommit
+
+    @Test
+    public void assertSomething(){
+        int n1 = 1;
+        int n2 = 2;
+
+        Assert.assertEquals(3,n1+n2);
+    }
+
     //Automation of ticket creation for support
 
     /**
